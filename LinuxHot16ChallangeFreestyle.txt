@@ -1,2 +1,21 @@
-J.Sarata
 HOT 16
+
+1. "pwd" - pokazuje, w jakim katalogu aktualnie się znajdujemy (ścieżkę) - przydatne, jak się człowiek zgubi
+2. "cd <sciezka>" - przechodzimy do odpowiedniej sciezki// "cd -" - wracamy do głównego katalogu 
+3. "cat>" <nazwa_pliku.rozszerzenie> - tworzy nowy plik (i od razu do niego wchodzi, jak chcemy wyjść ctrl+D) 
+4. "$ touch <plik1.roz> <plik2.roz>" - też tworzy pliki, ale może tworzyć wiele plików na raz 
+5. "ls" - listuje zawartość katalogu
+6. "rm <nazwa_pliku>" - usuwa plik
+7. "find -name <nazwa_pliku*>" - znajdowanie po nazwie pliku
+8. "grep - rnw 'ścieżka' -e 'szukany_fragment'" - wyszukiwanie plików zawierających fragment tekstu
+9. "man -polecenie" - odnosi do manuala dla danego polecenia (może być też: "polecenie --help")
+10. "cp <plik1> <plik2>" - kopiowanie pliku (jak w innych katalogach to trzeba podać ścieżki)
+11. "mkdir <nazwa_katalogu> - tworzy katalog
+12. "lp <nazwa_pliku>" - drukowanie pliku
+13."mv <nazwa_stara> <nazwa_nowa>" - zmiana nazwy pliku (a "mv <nazwa_pliku> <nazwa_katalogu>" - przeniesienie pliku)
+14. "apropos <wyrazenie>" - wyszukiwanie stron z pomocą
+15. "gzip" - kompresuje lub dekompresuje pliki
+16. "ping" - testowanie połączeń sieciowych
+
+
+
